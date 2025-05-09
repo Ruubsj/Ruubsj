@@ -1,0 +1,1 @@
+{"yellowPlatforms":[{"position":{"Y":216.90536499023438,"X":-26.389690399169923,"Z":200.42906188964845}}],"mappings":[],"redPlatforms":[]}
